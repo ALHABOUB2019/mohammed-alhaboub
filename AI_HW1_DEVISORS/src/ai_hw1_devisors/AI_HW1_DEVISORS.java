@@ -12,6 +12,7 @@ public class AI_HW1_DEVISORS {
         for (int i = 1; i <= Number; i++) {
             if (Number % i == 0) {
                 System.out.print(i + " | ");
+                System.out.print(i + " | ");
             }
 
         }
